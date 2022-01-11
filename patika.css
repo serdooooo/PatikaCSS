@@ -1,0 +1,27 @@
+
+.baslangic{
+    text-align: center;
+}
+.baslangic a{
+    padding: 10px;
+}
+h1{
+    color: red;
+}
+.anasayfam{
+    text-align: center;
+}
+.anasayfam h2{
+    color: rgb(236, 49, 49);
+}
+.anasayfam li{
+    list-style-position: inside;
+}
+.urunlerim{
+    text-align: center;
+    list-style-position: inside;
+}
+.urunlerim img{
+    height: 250px;
+    padding-top: 10%;
+}
