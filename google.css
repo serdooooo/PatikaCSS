@@ -1,0 +1,20 @@
+.googlebeta{
+    text-align: center;
+}
+.search{
+    background-color: rgb(189, 186, 186);
+    display: block;
+    text-align: center;
+    width: 730px;
+    margin:auto;
+}
+td{
+    list-style-type: none;
+    text-align: center;
+}
+table{
+    margin: auto;
+    padding: 1px;
+    height: 76;
+    width: 737px;
+}
